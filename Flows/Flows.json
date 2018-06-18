@@ -1,0 +1,20 @@
+{
+    "flows":[
+        {"name":"booking",
+         "steps":[
+             {"step":1,
+            "action":"go to JT"},
+            {"step":2,
+            "action":"choose session url based on session type"},
+            {"step":3,
+            "action":"select seats and proceed to payment"},
+            {"step":4,
+            "action":"choose a payment method"},
+            {"step":5,
+            "action":"choose offer"},
+            {"step":6,
+            "action":"assert booking"}
+         ]
+        }
+    ]
+}

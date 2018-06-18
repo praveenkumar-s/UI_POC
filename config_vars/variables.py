@@ -1,0 +1,2 @@
+MOVIEPASS_USER_EMAIL='praveentechnic@gmail.com'
+MOVIEPASS_USER_PASSWORD='abcd@1234'
